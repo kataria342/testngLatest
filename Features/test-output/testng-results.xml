@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestSuite" duration-ms="56875" started-at="2021-01-29T11:06:54 IST" finished-at="2021-01-29T11:07:51 IST">
+    <groups>
+    </groups>
+    <test name="Paralleltest" duration-ms="56875" started-at="2021-01-29T11:06:54 IST" finished-at="2021-01-29T11:07:51 IST">
+      <class name="testng.Features.ParallelTest">
+        <test-method status="PASS" signature="firefoxTest()[pri:0, instance:testng.Features.ParallelTest@394e1a0f]" name="firefoxTest" duration-ms="56761" started-at="2021-01-29T11:06:54 IST" finished-at="2021-01-29T11:07:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firefoxTest -->
+        <test-method status="PASS" signature="chromeTest()[pri:0, instance:testng.Features.ParallelTest@394e1a0f]" name="chromeTest" duration-ms="22418" started-at="2021-01-29T11:06:54 IST" finished-at="2021-01-29T11:07:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeTest -->
+      </class> <!-- testng.Features.ParallelTest -->
+    </test> <!-- Paralleltest -->
+  </suite> <!-- TestSuite -->
+</testng-results>
